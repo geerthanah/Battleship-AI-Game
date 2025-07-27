@@ -20,5 +20,6 @@ A classic Battleship game with a smart AI opponent using data structures and alg
 
 ```bash
 git clone https://github.com/geerthanah/Battleship-AI-Game.git
-cd battleship-ai
+cd Battleship-AI-Game
 python main.py
+
