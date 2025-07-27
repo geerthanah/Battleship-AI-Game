@@ -24,18 +24,18 @@ cd Battleship-AI-Game
 python main.py
 
 ```
-# (Optional) Run tests
+## (Optional) Run tests
 ```
 python -m unittest discover tests
 ```
 
-# Usage
+## Usage
 
 - On running `main.py`, follow the prompts to place your ships and start the game.
 - The AI will automatically make moves based on its attack strategy.
 
 
-# Contributing
+## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
