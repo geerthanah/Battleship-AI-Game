@@ -1,5 +1,5 @@
 import random
-from core.board import Board  # Add this import if Board is defined in core/board.py
+from core.board import Board  
 
 class AIPlayer:
     def __init__(self, name="Computer"):
